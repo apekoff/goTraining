@@ -1,1 +1,3 @@
 # goTraining
+
+my learn 
